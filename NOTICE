@@ -1,0 +1,8 @@
+Third-party software is used under its respective license terms. Installing
+packages does not change their license obligations. Dependency notices are
+available in their installed package directories and any distributed bundles.
+
+public/pdf.worker.min.mjs contains PDF.js, distributed under the Apache License
+2.0. A copy of that license is included in licenses/PDFjs-Apache-2.0.txt.
+
+Restaurant marks, photographs, and menu materials are not offered for reuse.
